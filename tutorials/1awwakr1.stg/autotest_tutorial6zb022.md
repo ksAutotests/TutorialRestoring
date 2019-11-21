@@ -30,3 +30,6 @@ autotest tutorial textcS0P75
 [DONE]
 [ACCORDION-END]
 
+[ACCORDION-BEGIN [](Fourth step)]
+[DONE]
+[ACCORDION-END]
